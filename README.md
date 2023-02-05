@@ -5,6 +5,6 @@ This repo collects some examples of programming I've done over the years. NB: mo
 (Wolfram files (.nb, .wl, .m) are best read using Mathematica or Wolfram Player. )
 
 Also see my non-programming products, such as:
-- Some of my writings, such as http://guidetoquantum.com/
+- Some of my writings, such as http://GuideToQuantum.com/
 - Public talks and lectures: http://www.koengroenland.com/about-me 
 
