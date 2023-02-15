@@ -1,6 +1,8 @@
 # Code Examples
 
-This repo collects some examples of programming I've done over the years. NB: most of the code was purely for private use, hence it's badly documented, contains 'scratchpad' commands, and is never neatly worked out for others to reuse. Some are incomplete parts of a bigger program, where I don't feel confident sharing work by collaborators. Peek at your own risk! Still, I hope it gives a fair glance at some technical topics I delved into. 
+This repository collects some examples of programming I've done over the years. 
+
+NB: Most of the code was intended for private use and for quick scientific checks -- it may not be as extensively structured or documented as I would ideally do, owing to a time trade-off. Some parts are incomplete and/or belong to bigger projects. Please don't consider this directly usable code for your own project!
 
 (Wolfram files (.nb, .wl, .m) are best read using Mathematica or Wolfram Player. )
 
