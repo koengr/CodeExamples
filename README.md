@@ -1,6 +1,6 @@
 # Code Examples
 
-This repository collects some examples of programming I've done over the years. 
+This repository collects some examples of programming I've done over the years, using Python, Mathematica, and an excursion to Julia.
 
 NB: Most of the code was intended for private use and for quick scientific checks -- it may not be as extensively structured or documented as I would ideally do, owing to a time trade-off. Some parts are incomplete and/or belong to bigger projects. Please don't consider this directly usable code for your own project!
 
