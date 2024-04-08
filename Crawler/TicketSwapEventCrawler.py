@@ -9,7 +9,7 @@ import re
 
 This is a simple crawler that checks a list of Ticketswap pages, and stores the current ticket prices for later reference. 
 
-NB: THIS IS NOT A BOT TO AUTOMATICALLY BUY TICKETS. 
+NB: THIS IS NOT A BOT THAT AUTOMATICALLY BUY TICKETS. 
 
 
 Conventions (defined by example):
